@@ -1,0 +1,15 @@
+.containerCartasLine1, .containerCartasLine2, .containerCartasLine3{
+  display: flex;
+}
+
+.campo{
+  max-width: 100%;
+}
+
+h1{
+  text-align:inherit;
+}
+
+img{
+  height: 150px;
+}
